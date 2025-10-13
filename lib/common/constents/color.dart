@@ -15,4 +15,5 @@ abstract final class DomiColor{
   static const Color gray600 = Color(0xFF7E7E7E);
   static const Color gray700 = Color(0xFF6A6A6A);
   static const Color gray800 = Color(0xFF565656);
+  static const Color white = Color(0xFFFFFFFF);
 }
