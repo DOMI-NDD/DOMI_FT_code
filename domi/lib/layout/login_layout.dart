@@ -15,7 +15,7 @@ class LoginLayout extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('asset/img/DOMI.png'),
+              Image.asset('assets/img/DOMI.png'),
               SizedBox(height: 19),
               Text(
                 text,
